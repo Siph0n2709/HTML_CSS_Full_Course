@@ -1,0 +1,5 @@
+git status
+git add .
+OR git add "xyz_file.txt" 
+git commit -m "Comment" 
+git push
